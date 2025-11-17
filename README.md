@@ -1,6 +1,6 @@
 # EXP-3
 ## EXPT NO: 3 STAIR CASE WIRING                     
-### NAME : PRAVIN KUMAR .
+### NAME : PRAVIN KUMAR A.
 ### REG NO : 212223230155
  
 ### AIM
